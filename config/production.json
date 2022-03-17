@@ -1,3 +1,3 @@
 {
-    "db":"mongodb+srv://vlabsClusterUser:vlabsClusterPassword@smartlabcluster.1apgb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "db":"mongodb+srv://vlabsClusterUser:vlabsClusterPassword@cluster0.1apgb.mongodb.net/SmartLab?retryWrites=true&w=majority"
 }
